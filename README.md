@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.io/Order-Sum-challenge/)
+- Solution URL: [Add solution URL here](https://github.com/Saviourjr/Order-Sum-challenge)
 - Live Site URL: [Add live site URL here](https://saviourjr.github.io/Order-Sum-challenge/)
 
 ## My process
